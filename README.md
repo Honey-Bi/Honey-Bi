@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Honey-Bi&fontColor=777&fontAlign=80)
-### Hi there 👋
-
+> <b>Front-End Developer</b>
 <!--
 **Honey-Bi/Honey-Bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
