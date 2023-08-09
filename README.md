@@ -2,4 +2,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&text=Honey-Bi&fontColor=000&fontAlign=80&color=gradient) -->
 > <b>Front-End Developer</b>
 <br>
-[portfolio](https://honey-bi.github.io/concept)
+
+ - 
+- [Portfolio - https://honey-bi.github.io](https://honey-bi.github.io/concept/)
+- [Contact - biten10@naver.com](biten@naver.com)
