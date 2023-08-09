@@ -3,6 +3,5 @@
 > <b>Front-End Developer</b>
 <br>
 
- - 
 - [Portfolio - https://honey-bi.github.io](https://honey-bi.github.io/concept/)
 - [Contact - biten10@naver.com](biten@naver.com)
